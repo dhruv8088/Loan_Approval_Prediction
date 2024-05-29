@@ -32,3 +32,6 @@ The **Loan Approval Prediction** project provides valuable insights into loan ap
 
 4. **Risk Mitigation:** Understanding the factors contributing to loan approval allows banks to assess and manage risk more effectively, resulting in a reduced risk of defaults and non-repayment.
 
+## PDF Link:
+https://drive.google.com/open?id=1-BhtQyYs50dMYtjUJSBexevXh8bKORgv&usp=drive_fs
+
